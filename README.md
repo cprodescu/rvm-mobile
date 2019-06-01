@@ -51,6 +51,8 @@ API: https://github.com/code4romania/rvm-api
 expo start
 ```
 
+If you experience any issues, follow the steps at https://facebook.github.io/react-native/docs/getting-started
+
 ## Feedback
 
 * Request a new feature on GitHub.
