@@ -39,9 +39,19 @@ rnpm
 Web app: https://github.com/code4romania/rvm-client
 API: https://github.com/code4romania/rvm-api
 
+## Requirements
+
+- node
+- rnpm
+- expo
+
 ## Deployment
 
-TBD
+```
+expo start
+```
+
+If you experience any issues, follow the steps at https://facebook.github.io/react-native/docs/getting-started
 
 ## Feedback
 
