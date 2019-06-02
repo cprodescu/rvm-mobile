@@ -38,6 +38,7 @@ export default class LoginScreen extends React.Component {
       .then(({ authToken }) => {
         console.log(`Login successful (authToken: ${authToken})`);
         // TODO: switch screen
+        // this.props.navigation.navigate('Main');
       })
       .catch(({ errorMessage }) => {
         this.setState({ errorMessage });
